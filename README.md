@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Fajar Pambudi!
 
-<!--
-**fajar-setia/fajar-setia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔧 Junior Developer
+- 🌱 Currently learning: Web Development, Mobile Dev, and Server Management
+- 🎯 Goal: Become Fullstack Developer
+- 💼 Open to collaboration on interesting projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+**Languages:**
+- JavaScript • PHP • Python • Kotlin
+
+**Framework & Tools:**
+- Node.js • React.js • Laravel • Bootstrap • Tailwind  
+- Android Studio • MySQL • MongoDB • PM2 • Docker
+
+---
+
+## 📊 GitHub Stats
+![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajarpambudi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarpambudi&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+- 📬 Email: your@email.com
+- 🌐 Website: https://yourwebsite.com
+- 📱 WhatsApp: 08xxxxxx
+
