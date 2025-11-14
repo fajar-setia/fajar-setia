@@ -134,7 +134,7 @@ const aboutMe = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/fajar-setia/fajar-setia/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fajar-setia/fajar-setia/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
