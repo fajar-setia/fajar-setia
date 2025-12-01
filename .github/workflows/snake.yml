@@ -5,27 +5,35 @@ on:
     - cron: "0 */6 * * *"  # Setiap 6 jam
   workflow_dispatch:
 
+# … nama & trigger tetap …
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation
+        id: snake
+        continue-on-error: true        # ← jangan fail total kalau API limit
         uses: Platane/snk@v3
         with:
           github_user_name: fajar-setia
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Upload Snake Animation
+      - name: Skip deploy jika SVG kosong / gagal
+        if: steps.snake.outcome == 'success' && hashFiles('dist/snake.svg') != ''
+        run: echo "Snake OK, lanjut deploy"
+
+      - name: Upload artifact
+        if: steps.snake.outcome == 'success' && hashFiles('dist/snake.svg') != ''
         uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Push ke branch output
+        if: steps.snake.outcome == 'success' && hashFiles('dist/snake.svg') != ''
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
