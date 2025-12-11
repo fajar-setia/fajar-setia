@@ -15,19 +15,18 @@
 ```typescript
 const aboutMe = {
     nama: "Fajar Setia Pambudi",
-    lokasi: "Indonesia 🇮🇩",
+    lokasi: "Yogyakarta, Indonesia",
     role: "Full Stack Developer",
-    code: ["JavaScript", "C#", "Python", "Java", "PHP"],
+    code: ["JavaScript", "C#", "Python", "PHP"],
     technologies: {
         frontend: ["React", "Vue", "Next.js", "TailwindCSS"],
         backend: ["Node.js", "Express", "Django", "Laravel"],
-        database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        database: ["MongoDB", "MySQL", "PostgreSQL"],
+        devOps: ["Docker"],
         tools: ["Git", "VS Code", "Figma", "Postman"]
     },
-    hobi: ["Coding 💻", "Gaming 🎮", "Reading 📚", "Music 🎵"],
-    currentlyLearning: "AI & Machine Learning 🤖",
-    motto: "Code is Poetry ✨"
+    hobi: ["fishing", "Gaming", "watching dracin youtube", "singging"],
+    motto: "Panggah Pisik Maseh"
 };
 ```
 
