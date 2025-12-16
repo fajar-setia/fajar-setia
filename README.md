@@ -56,7 +56,6 @@ const aboutMe = {
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=fajar-setia&theme=radical&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajar-setia&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" height="170"/>
 </div>
 
