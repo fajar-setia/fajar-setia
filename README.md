@@ -56,7 +56,7 @@ const aboutMe = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajar-setia&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=fajar-setia&theme=radical&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajar-setia&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" height="170"/>
 </div>
 
@@ -65,7 +65,7 @@ const aboutMe = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fajar-setia&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+ <img src="https://github-profile-trophy.vercel.app/?username=fajar-setia&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -73,7 +73,7 @@ const aboutMe = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajar-setia&theme=radical&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fajar-setia&theme=radical&hide_border=true" />
 </div>
 
 ---
