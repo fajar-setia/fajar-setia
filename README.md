@@ -49,20 +49,33 @@ const aboutMe = {
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fajar-setia&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=fajar-setia&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fajar-setia&show_icons=true&theme=radical&hide_border=true&count_private=true " alt="GitHub Stats" height="170"/>
+ <img src="https://streak-stats.demolab.com?user=fajar-setia&theme=radical&hide_border=true " />
 </div>
 
-## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajar-setia&theme=radical&hide_border=true&custom_title=Contribution%20Graph" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajar-setia&theme=redical&hide_border=true&custom_title=Contribution%20Graph " alt="Contribution Graph" height="170"/>
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fajar-setia&theme=radical&no-frame=true&margin-w=15"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=fajar-setia&theme=radical&no-frame=true&margin-w=15 " />
 </div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+ <img src="https://streak-stats.demolab.com?user=fajar-setia&theme=radical&hide_border=true " />
+</div>
+
+ini coba lah perbaiki
 
 ---
 
