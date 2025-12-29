@@ -75,8 +75,6 @@ const aboutMe = {
  <img src="https://streak-stats.demolab.com?user=fajar-setia&theme=radical&hide_border=true " />
 </div>
 
-ini coba lah perbaiki
-
 ---
 
 ## 📈 Activity Graph
